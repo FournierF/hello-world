@@ -2,25 +2,14 @@
 	font-family: Arial, Verdana, Sans-serif ;
 }
 
-#boite{
-	width: 400px;
+#un{
+	background-color: blue;
 }
 
-#texte{
-	display: block;
-	color:grey;
-	width:400px;
-	height : 30px;
-	border: 1px solid grey;
-	overflow: hidden;
+#deux{
+	background-color: white;
 }
 
-#bouton{
-	display: block;
-	width: 100px;
-	margin-left: 300px;
-}
-
-#messages{
-	width :400px;
+#trois{
+	background-color: red;
 }
